@@ -8,11 +8,11 @@
 </a>
 </p>
 <h1 align="center">
-  <b>Srishti Pokhriyal</b>
+  <b>Imtiyaz Ahmad</b>
 </h1>
 <b> About me:</b>
 </br>
-Hi, I'm Srishti having an experience of 5+ years in Devops,
+Hi, I'm Imtiyaz having an experience of 7+ years in Web Development,
 </br>
 </br>
 
@@ -22,13 +22,13 @@ I’m interested in designing solutions, Architect the project and provide techn
 </br>
 </br>
 <b>Tech Stack and Expertise</b></br>
-Expertise: Devops, 
+Expertise: PHP, ZOHO 
 </br>
 </br>
 
 <b>How to connect with me</b>
 </br>
-Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">srishti.p@clixlogix.net</a>
+Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">imtiyaz.ahmad@clixlogix.net</a>
 </br>
 </br>
 <b>Statics:</b>
